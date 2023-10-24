@@ -5,6 +5,7 @@ This project focuses on image analysis and the detection of breast cancer cells 
 ### Test Parameters
 
 - Number of Epochs: 150
+60
 - Batch Size: 24
 - Bottleneck Size: 64
 - Mass Dataset Size: 493
